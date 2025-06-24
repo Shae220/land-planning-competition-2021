@@ -1,5 +1,6 @@
 # National Land Spatial Planning Competition (2021)
 
+📦 Note: Data migration is in progress. Selected visuals, scripts, and documentation will be added once files are retrieved from the original environment.
 ##  Overview
 This project was developed as part of the 2021 National College Land Spatial Planning Skills Competition in China. Our team of five proposed a comprehensive spatial development plan for a rural village, based on GIS-driven analysis of land use, ecological priorities, and development potential.
 
